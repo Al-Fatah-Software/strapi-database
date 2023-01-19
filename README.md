@@ -1,0 +1,2 @@
+# strapi-database
+strapi-database
