@@ -1,0 +1,49 @@
+{
+  "kind": "collectionType",
+  "collectionName": "members",
+  "info": {
+    "singularName": "member",
+    "pluralName": "members",
+    "displayName": "Member",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "nik": {
+      "type": "string"
+    },
+    "address": {
+      "type": "text"
+    },
+    "date_of_birth": {
+      "type": "date"
+    },
+    "gender": {
+      "type": "string"
+    },
+    "job": {
+      "type": "string"
+    },
+    "baiat_year": {
+      "type": "integer"
+    },
+    "no_handphone": {
+      "type": "integer"
+    },
+    "last_education": {
+      "type": "string"
+    },
+    "monthly_income": {
+      "type": "integer"
+    },
+    "quran_reading_status": {
+      "type": "string"
+    }
+  }
+}
